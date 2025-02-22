@@ -17,7 +17,7 @@
       <br>
 
         <!-- Tombol Download Resume -->
-      <button
+      <!-- <button
         class="fadein-bot fade-500 flex items-center py-2 px-4 mx-auto text-sm font-medium rounded-lg border transition duration-300 md:py-2.5 md:px-5 md:mx-0 text-amber-200 border-amber-200 hover:bg-amber-200 hover:bg-opacity-10 bg-transparent focus:outline-none w-fit">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="mr-2 w-4 h-4">
           <path fill-rule="evenodd"
@@ -28,9 +28,7 @@
           </path>
         </svg>
         Download Resume
-      </button>
-      
-      <br>
+      </button> -->
 
       <div class="flex space-x-4 justify-center md:justify-start fadein-bot">
         <a href="https://www.instagram.com/qaysaraqeell" target="_blank" class="social-button">
@@ -44,6 +42,8 @@
         </a>
       </div>
     </div>
+
+   
 
     <div class="flex justify-center md:justify-start fadein-right"><img alt="avatar" fetchpriority="high" width="250" height="250" decoding="async" data-nimg="1"
       class="w-80 h-80 md:h-auto rounded-full border-4 border-amber-200 pict" :src="require('@/assets/foto.jpg')" />
