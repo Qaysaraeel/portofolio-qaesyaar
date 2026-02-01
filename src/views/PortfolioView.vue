@@ -104,6 +104,24 @@ export default {
           tech: 'SMK Telkom Sidoarjo - Des 2023',
           github: 'null',
           demo: 'null'
+        },
+        {
+          id: 7,
+          name: '1st Place — Jagoan Hosting Infrastructure Competition 2025',
+          imageUrl: 'jhic',
+          status: 'Won 1st place in the Jagoan Hosting Infrastructure Competition 2025 by designing and deploying a reliable website school project',
+          tech: 'Jagoan Hosting - Des 2025',
+          github: 'null',
+          demo: 'https://www.instagram.com/qaysaraqeel.n/p/DQ6ThI8krbI/'
+        },
+        {
+          id: 8,
+          name: '1st Place — Jagoan Hosting Infrastructure Competition 2025',
+          imageUrl: 'moyi',
+          status: 'Achieved 1st place in the MOYI UI/UX Competition 2025 by creating a user-centered interface design focused on clarity, usability, and effective user experience.',
+          tech: 'SMK Telkom Malang - Juni 2025',
+          github: 'null',
+          demo: 'https://www.linkedin.com/in/qaysar-aqeel-2387642a6/details/honors/1769155023054/single-media-viewer/?type=DOCUMENT&profileId=ACoAAEnLdkwBOjbkKHXZ1hHLPD0eVFqupNQE75w     '
         }
       ],
       bussines: [
@@ -112,7 +130,7 @@ export default {
           name: 'Kanvas Basic - Founder & Chief Executive Officer ',
           imageUrl: 'kansic',
           status: 'Kanvas Basic adalah sebuah usaha yang bergerak di bidang seni, berfokus pada produksi kanvas lukis polos dan bergambar dalam berbagai ukuran. menggunakan bahan utama yang ramah lingkungan, sehingga mampu menghadirkan produk dengan harga terjangkau tanpa mengorbankan kualitas.',
-          tech: 'Sidoarjo, Jawa Timur, Indonesia',
+          tech: 'Sidoarjo, Jawa Timur, Indonesia',           
           github: 'https://shopee.co.id/kanvas.basic',
           demo: 'https://www.instagram.com/kanvas.basic/'
         },
